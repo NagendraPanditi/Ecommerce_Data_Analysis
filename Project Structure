@@ -1,0 +1,17 @@
+ecommerce-data-analysis/
+│
+├─ dataset/                 # CSV dataset
+│    └─ ecommerce_data.csv
+│
+├─ Python code/             # VS Code 
+│    └─ Ecommerce_Dataset.py
+│
+├─ scripts/                 # Python scripts for ETL and analysis
+│    └─ data_cleaning.py
+│    └─ analysis.py
+│
+├─ reports/                 # Output files, charts, and dashboards
+│    └─ dashboard_preview.png
+│
+├─ README.md                # Project description
+└─ requirements.txt         # Python dependencies
